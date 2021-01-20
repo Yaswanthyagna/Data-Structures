@@ -1,7 +1,7 @@
 package com.company;
 public class Insertion_sort {
         public static void main(String[] args) {
-            int[] a ={239,324,241,213,324,234};
+            int[] a ={239,324,241,213,324,24};
             int len = a.length;
             int[] b= Isort(a,len);
            for(int j:b){
